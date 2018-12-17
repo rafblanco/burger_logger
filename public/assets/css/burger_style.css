@@ -1,0 +1,34 @@
+body, html{
+    background-color: rgb(255, 217, 0);
+    margin: 0 auto;
+    max-width: 900px;
+    text-align: center;
+}
+
+ul {
+    width: 35%;
+}
+li{
+    list-style: none;
+}
+li p{
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    background: #d5d6d6ab;
+}
+#left{
+    float:left;
+}
+#right{
+    float:right;
+}
+
+#form-area{
+    clear: both;
+}
+
+#picture{
+    width: 100px;
+    height: 100px;
+}
