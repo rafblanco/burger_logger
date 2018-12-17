@@ -12,13 +12,13 @@
   },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/rafblanco/burger_logger/issues"
-  },
-  "homepage": "https://github.com/rafblanco/burger_logger#readme",
   "dependencies": {
     "express": "^4.16.4",
     "express-handlebars": "^3.0.0",
     "mysql": "^2.16.0"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/rafblanco/burger_logger/issues"
+  },
+  "homepage": "https://github.com/rafblanco/burger_logger#readme"
 }
